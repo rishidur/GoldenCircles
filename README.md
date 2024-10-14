@@ -9,16 +9,21 @@ Golden Circles is an app built to streamline communication and event management 
 ## What I've Learned 📚  
 This project marks my first experience with Flutter and App UI design. Building **Golden Circles** completely by myself taught me the importance of structuring mobile applications efficiently and understanding local authentication. I've also enhanced my skills in state management and UI responsiveness. The next phase will focus on implementing Firebase authentication to improve security.  
 
+
 ## Key Features 🌟  
 - **Local Authentication**: Ensures secure user data access without relying on external servers.  
 - **Event Creation**: Users can add, view, and manage events within their community.  
 - **Simplified UI**: A basic but functional user interface that serves as a foundation for future improvements.  
 - **Designed for Seniors**: Tailored to make navigation and usability intuitive for elderly users.  
 
+
 ## Future Enhancements 🚀  
-- **Firebase Integration**: I plan to incorporate Firebase for user authentication and real-time data syncing.  
-- **UI Overhaul**: Future versions will feature a more modern, sleek design to make the app even easier to navigate.  
-- **Additional Features**: Expanding functionality to include notifications for upcoming events and better community support options.
+- **Focus on Security**: My top priority is ensuring user safety, which I plan to achieve by building a trusted community around the app and implementing advanced security features.  
+- **Firebase Integration**: Implementing Firebase for authentication and real-time data management to enhance security and scalability.  
+- **AI Chatbot Integration**: Developing an AI-powered chatbot to assist elderly users with communication and event planning.  
+- **Improved UI Designs**: Enhancing the user interface with a modern, intuitive design that caters to the needs of elderly users.  
+
+
 
 ## App Showcase 📸  
 _(Here’s where I’ll add sample images of the app’s UI):_
