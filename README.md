@@ -4,7 +4,7 @@
 # Golden Circles 🌟  
 **Connecting Elderly Seniors to Their Communities**  
 
-Golden Circles is an app built to streamline communication and event management for elderly Asian Indian seniors, helping them stay connected with local communities. This app simplifies the process of creating and joining events, making it easier for seniors to engage in social activities. It features local authentication and a user-friendly interface designed with simplicity in mind.  
+Golden Circles is an app built to streamline communication and event management for elderly seniors, helping them stay connected with local communities. This app simplifies the process of creating and joining events, making it easier for seniors to engage in social activities. It features local authentication and a user-friendly interface designed with simplicity in mind.  
 
 ## What I've Learned 📚  
 This project marks my first experience with Flutter and App UI design. Building **Golden Circles** completely by myself taught me the importance of structuring mobile applications efficiently and understanding local authentication. I've also enhanced my skills in state management and UI responsiveness. The next phase will focus on implementing Firebase authentication to improve security.  
